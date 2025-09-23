@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Transportation Engineering"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ]
+  ],
+  "legacy_uid": "dd989109-5c5e-b391-40ea-ec1fa29fd772",
+  "instructors": {
+    "content": [
+      "2366cf87-9a99-42a5-1614-90e17729dce1",
+      "f7fa0801-6ff6-9926-9da1-49c325b4a5b1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ac46175c-a6bf-59bd-6e6a-5d431ce53594",
+    "website": "1-224j-carrier-systems-fall-2003"
+  },
+  "course_title": "Carrier Systems",
+  "course_description": "Carrier systems involve the design, operation and management of transportation networks, assets, personnel, freight and passengers. In this course, we will present models and tools for analyzing, optimizing, planning, managing and controlling carrier systems.\n",
+  "department_numbers": [
+    "1",
+    "ESD"
+  ],
+  "extra_course_numbers": "ESD.204J",
+  "primary_course_number": "1.224J",
+  "course_image_thumbnail": {
+    "content": "0d0705d6-2003-b59c-5dd9-eca1fb1add2c",
+    "website": "1-224j-carrier-systems-fall-2003"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "8a5683a1-b4ac-4981-8da1-7dd4a9265c20",
+  "site_short_id": "1.224j-fall-2003",
+  "site_url_path": "courses/1-224j-carrier-systems-fall-2003",
+  "title": "Course Metadata"
+}
