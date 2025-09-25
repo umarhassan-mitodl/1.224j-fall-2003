@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-224j-carrier-systems-fall-2003/55cafd5418b23b65b9cd59d4011561b1_fishlp.pdf
 file_size: 34766
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

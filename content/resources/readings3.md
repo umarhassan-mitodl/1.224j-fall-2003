@@ -4,6 +4,8 @@ description: 'Prepared by: Nathaniel Grier'
 file: /courses/1-224j-carrier-systems-fall-2003/5f0219f466a9693933dd335e1fbb350a_readings3.pdf
 file_size: 101186
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

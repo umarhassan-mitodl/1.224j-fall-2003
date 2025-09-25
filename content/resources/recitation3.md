@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-224j-carrier-systems-fall-2003/49eff26c336fff3dece0a9219e635ef4_recitation3.pdf
 file_size: 83447
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Recitations
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

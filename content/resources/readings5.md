@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-224j-carrier-systems-fall-2003/c68338fcc486c3281db83e1c36a32bb0_readings5.pdf
 file_size: 248382
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
